@@ -1,2 +1,3 @@
-# Pranprastuti-krishi-farm-
-i have worked as front-end developer for Pranprastuti krishi farm and here is what i created. 
+# Pranprastuti-Krishi-Farm
+I worked as a front-end developer for Pranprastuti Krishi Farm, and here is what I created.
+
